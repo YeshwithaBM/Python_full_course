@@ -1,0 +1,13 @@
+word_list = ["tiger",
+ "elephant", 
+"rabbit",
+ "monkey",
+   "giraffe",
+     "zebra",
+       "penguin", 
+"dolphin", "apple", "banana", "orange", "mango", "grapes", 
+"papaya", "cherry", "peach", "python", "laptop", "keyboard",
+"monitor", "internet", "database", "software", "computer",
+"mountain", "river", "forest", "desert", "ocean", "flower",
+"sunshine", "rainbow", "bottle", "window", "pencil",
+"backpack", "camera", "wallet", "umbrella", "telephone"]
