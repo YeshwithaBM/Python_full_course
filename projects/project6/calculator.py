@@ -32,7 +32,6 @@ def calculate(first_element):
             return calculate(new_element)
         else:
             break
-    return
 first_element=int(input("enter a number: "))
 operator=["+","-","/","*"]
 for i in operator:
