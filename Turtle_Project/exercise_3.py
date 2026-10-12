@@ -5,7 +5,7 @@ from turtle import Turtle
 turtle.colormode(255)
 tom = Turtle()
 tom.width(15)
-for _ in range(100):
+for _ in range(500):
     r = random.randrange(0,255)
     g = random.randrange(0,255)
     b = random.randrange(0,255)
